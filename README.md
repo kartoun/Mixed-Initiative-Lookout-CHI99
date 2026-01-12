@@ -2,6 +2,8 @@
 
 This repository contains a **self-contained Python implementation** of a **synthetic mixed-initiative decision-making model** inspired by the ideas in Eric Horvitz’s CHI’99 *LookOut* work on attention, interruption, and decision-theoretic control.
 
+**Hugging Face:** [https://huggingface.co/datasets/DBbun/Mixed-Initiative-Lookout-CHI99](https://huggingface.co/datasets/DBbun/Mixed-Initiative-Lookout-CHI99)
+
 The code generates **synthetic interaction traces**, analytic decision thresholds, figures, and dataset exports suitable for research in:
 - mixed-initiative systems,
 - decision theory under uncertainty,
